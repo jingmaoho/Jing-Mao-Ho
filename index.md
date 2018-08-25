@@ -1,12 +1,12 @@
-## Bio
+# Bio
 
-I am a PhD candidate in the Sociology Department at Cornell University. [editor on GitHub](https://github.com/jingmaoho/jingmaoho.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate in the Sociology Department at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University. 
 
 My research interests include political sociology, science, technology, & knowledge, comparative sociology, historical sociology, computational social science, and sociological theory. I use qualitative, quantitative, and computational methods to analyze archival, organizational, survey, or textual data. 
 
 My dissertation explores the relationship between statistics, societies, and politics. In addition, I have been involved in research projects on a variety of topics, such as trust, democractic politics, world society, social networks, and elites.
 
-I hold an MS in Computer Science and an MA in Sociology from National Taiwan University. 
+
 
 
 ### Markdown
