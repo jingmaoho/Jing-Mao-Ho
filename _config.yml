@@ -1,9 +1,9 @@
 title: Jing-Mao Ho
+avatar: https://github.com/jingmaoho/jingmaoho.github.io/blob/master/profilepic.png
 description: 
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
-avatar: https://github.com/jingmaoho/jingmaoho.github.io/blob/master/profilepic.png
 
 gems:
   - jekyll-mentions
