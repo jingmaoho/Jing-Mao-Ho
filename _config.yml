@@ -9,7 +9,7 @@ navbar-links:
 avatar: https://github.com/jingmaoho/jingmaoho.github.io/blob/master/profilepic.png
 description: 
 google_analytics: 
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
 
 gems:
