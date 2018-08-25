@@ -1,4 +1,4 @@
-# Bio
+### Bio
 
 I am a PhD candidate in the Sociology Department at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University. 
 
