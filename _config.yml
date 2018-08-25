@@ -3,7 +3,7 @@ avatar: "profilepic.png"
 description: 
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
