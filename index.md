@@ -1,4 +1,4 @@
-## Jing-Mao Ho's Website
+## Jing-Mao Ho
 
 I am a PhD candidate in the Sociology Department at Cornell University. [editor on GitHub](https://github.com/jingmaoho/jingmaoho.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
