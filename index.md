@@ -1,6 +1,6 @@
 ### Bio
 
-#### I am a PhD candidate in the Sociology Department at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University. 
+I am a PhD candidate in the Sociology Department at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University. 
 
 My research interests include political sociology, science, technology, & knowledge, comparative sociology, historical sociology, computational social science, and sociological theory. I use qualitative, quantitative, and computational methods to analyze archival, organizational, survey, or textual data. 
 
