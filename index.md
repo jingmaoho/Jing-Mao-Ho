@@ -6,6 +6,8 @@ My research interests include political sociology, science, technology, & knowle
 
 My dissertation explores the relationship between statistics, societies, and politics. In addition, I have been involved in research projects on a variety of topics, such as trust, democractic politics, world society, social networks, and elites.
 
+[Research](https://jingmaoho.github.io/research)
+
 
 
 
