@@ -1,4 +1,5 @@
 title: Jing-Mao Ho
-description: 'testPhD Candidate\nDepartment of Sociology\nCornell University'
+navbar-links:
+   About Me: "aboutme"
 show_downloads: false
 theme: jekyll-theme-minimal
