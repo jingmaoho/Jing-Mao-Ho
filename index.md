@@ -12,7 +12,7 @@ You are very welcome to drop me a line: jh2268 (at) cornell.edu
 
 I'd like to share my thoughts and writings pertaining to theoretical computer science, data science, machine learning, and statistics here. Below you can find some of my notes on the mathematics behind computational models and their implementations in R or Python:
 
-[Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/research)
+[Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/Perceptron_JMH.pdf)
 
 [Linear Classifier: Support Vector Machines (SVM)] (coming soon!)
 
