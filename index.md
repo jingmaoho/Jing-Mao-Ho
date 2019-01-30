@@ -6,7 +6,11 @@ My social science research interests include computational social science, data 
 
 My computer science interests are in machine learning, algorithm analysis, and theoretical computer science. In addition to applying computational and statistical models to slove real-world problems, I'm particulary interested in the mathematical and philosophical fundamentals of predictive models. 
 
-Below you can find some of my notes on the mathematics behind computational models:
+You are very welcome to drop me a line: jh2268 (at) cornell.edu
+
+### What's on my GitHub?
+
+I'd like to share my thoughs and writings pertaining to theoretical computer science, data science, machine learning, and statistics here. Below you can find some of my notes on the mathematics behind computational models and their implementations in R or Python:
 
 [Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/research)
 
