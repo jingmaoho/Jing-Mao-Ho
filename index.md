@@ -10,7 +10,7 @@ You are very welcome to drop me a line: jh2268 (at) cornell.edu
 
 ### What's on my GitHub?
 
-I'd like to share my thoughts and writings pertaining to theoretical computer science, data science, machine learning, and statistics here. Below you can find some of my notes on the mathematics behind computational models and their implementations in R or Python:
+I'd like to share my notes pertaining to statistics, data science, machine learning, and theoretical computer science here. I use this form of writing to make sure that I completely understand a topic and the logic behind it. Below you can find some of the documents I've written on the mathematics underlying certain common statistical/ML/computational models and their implementations in R or Python:
 
 [Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/Perceptron_JMH.pdf)
 
