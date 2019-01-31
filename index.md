@@ -10,7 +10,7 @@ You are very welcome to drop me a line: jh2268 (at) cornell.edu
 
 ### What's on my GitHub?
 
-While I apply a variety of quantitative approaches to my social science research, I'd like to share my notes pertaining to statistics, data science, machine learning, and theoretical computer science here. It's my philosophy that the deeper you understand predictive models, the better researcher you will become. Below you can find some of the documents I've written on the mathematics underlying certain common statistical/ML/computational models and their implementations in R or Python:
+While I apply a variety of quantitative approaches to my social science research, I'd like to share my notes pertaining to statistics, data science, machine learning, and theoretical computer science here. It's my philosophy that the deeper you understand the methods you use, the better researcher you will become. Also, it is always fun for me to dig into those commonly used models! Below you can find some of the documents I've written on the mathematics underlying certain statistical/ML/computational models and their implementations in R or Python:
 
 [Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/Perceptron_JMH.pdf)
 
