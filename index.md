@@ -19,7 +19,12 @@ While I apply a variety of quantitative approaches to my social science research
 
 [Linear Regression: Least Squares Estimation (LSE)] (coming soon!)
 
+[Exponential Random Graph Model (ERGM)] (coming soon!)
+
+
 ### Data Visualization
 In addition to the mathematics of data science, I'm also passionate about visualizing data. 
 
 [A country network through intergovernmental ties](https://jingmaoho.github.io/network.io.pdf)
+
+[A group of ego centric networks] (coming soon!)
