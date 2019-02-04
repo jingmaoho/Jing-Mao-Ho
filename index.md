@@ -1,4 +1,4 @@
-### Who am I?
+## Who am I?
 
 I am a PhD candidate in Sociology at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University, and a BS in Information Engineering from I-Shou University.
 
@@ -8,9 +8,9 @@ My computer science interests are in machine learning, algorithm analysis, and t
 
 You are very welcome to drop me a line: jh2268 (at) cornell.edu
 
-### What's on my GitHub?
+## What's on my GitHub?
 
-## Statistical and Computational Models
+### Statistical and Computational Models
 While I apply a variety of quantitative approaches to my social science research, I'd like to share my notes pertaining to statistics, data science, machine learning, and theoretical computer science here. It's my philosophy that the deeper you understand the methods you use, the better researcher you will become. Also, it is always fun for me to dig into those commonly used models! Below you can find some of the documents I've written on the mathematics underlying certain statistical/ML/computational models and their implementations in R or Python:
 
 [Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/Perceptron_JMH.pdf)
@@ -19,7 +19,7 @@ While I apply a variety of quantitative approaches to my social science research
 
 [Linear Regression: Least Squares Estimation (LSE)] (coming soon!)
 
-## Data Visualization
+### Data Visualization
 In addition to the mathematics of data science, I'm also passionate about visualizing data. 
 
-[A country network through intergovernmental ties] (https://jingmaoho.github.io/network.io.pdf)
+[A country network through intergovernmental ties](https://jingmaoho.github.io/network.io.pdf)
