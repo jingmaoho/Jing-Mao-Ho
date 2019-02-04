@@ -14,7 +14,7 @@ While I apply a variety of quantitative approaches to my social science research
 
 [Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/Perceptron_JMH.pdf)
 
-[Linear Classifier: Support Vector Machines (SVM)] (coming soon!)
+[Linear Classifier: Support Vector Machines (SVM)](https://jingmaoho.github.io/SVM.pdf)
 
 [Linear Regression: Least Squares Estimation (LSE)] (coming soon!)
 
