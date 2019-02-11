@@ -1,8 +1,8 @@
 ## Who am I?
 
-I'm a Bourdieusian data scientist. I approach data science & data analysis from both sociological and computational perspectives. In addition to practically applying statistical models to analyze data on social dynamics, I also reflexively study the relationships between data and society.
+I'm a Bourdieusian data scientist. I approach data science & data analysis from both sociological and computational perspectives. In addition to practically applying statistical models to analyze data on social dynamics, I reflexively study the relationships between data and society.
 
-My Sociology dissertation explores the relationship between statistics, societies, and politics. In addition, I have been involved in research projects on a variety of substantive topics, such as trust, democratic politics, world society, social networks, and elites. In these projects I use qualitative, quantitative, and computational methods to analyze archival, organizational, survey, and textual data.
+My Sociology dissertation explores the relationship between statistics, societies, and politics. I also have been involved in research projects on a variety of substantive topics, such as trust, democratic politics, world society, social networks, and elites. In these projects I use qualitative, quantitative, and computational methods to analyze archival, organizational, survey, and textual data.
 
 My computer science interests are in machine learning, algorithm analysis, and theoretical computer science. I'm particularly interested in the mathematical and philosophical fundamentals of predictive modeling. 
 
