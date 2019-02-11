@@ -1,6 +1,6 @@
 ## Who am I?
 
-I'm a Bourdieusian computational social scientist. I approach data science & data analysis from both sociological and computational perspectives. I'm currently a PhD candidate in Sociology at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University, and a BS in Information Engineering from I-Shou University.
+I'm a Bourdieusian data scientist. I approach data science & data analysis from both sociological and computational perspectives. I'm currently a PhD candidate in Sociology at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University, and a BS in Information Engineering from I-Shou University.
 
 My social science research interests include computational social science, data science, statistical methodology, political sociology, science, technology, & knowledge, public opinion, culture, diffusion, and social theory. I use qualitative, quantitative, and computational methods to analyze archival, organizational, survey, and textual data. My Sociology dissertation explores the relationship between statistics, societies, and politics. In addition, I have been involved in research projects on a variety of substantive topics, such as trust, democratic politics, world society, social networks, and elites.
 
