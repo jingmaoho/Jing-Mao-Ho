@@ -27,7 +27,7 @@ While I apply a variety of quantitative approaches to my social science research
 ### Data Analysis and Visualization 
 In addition to the mathematics of data science, I'm also passionate about visualizing data. 
 
-[A Methodological Appendix] (https://jingmaoho.github.io/Methodological Appendix Where Does World Society Come From.html)
+[A Methodological Appendix](https://jingmaoho.github.io/Methodological Appendix Where Does World Society Come From.html)
 
 [Replication Code of Panel Poisson Analysis](https://jingmaoho.github.io/replication.clean.model.html)
 
