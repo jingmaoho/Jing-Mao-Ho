@@ -26,9 +26,9 @@ In addition to the mathematics of data science, I'm also passionate about wrangl
 
 [Replication R Code of Panel Poisson Analysis](https://jingmaoho.github.io/replication.clean.model.html)
 
-[A country network through intergovernmental ties](https://jingmaoho.github.io/network.io.pdf)
+[Data Visualizations: A Country Network through Intergovernmental Ties](https://jingmaoho.github.io/network.io.pdf)
 
-[A group of ego centric networks](https://jingmaoho.github.io/networks.pdf)
+[Data Visualizations: Ego Centric Networks](https://jingmaoho.github.io/networks.pdf)
 
 ## Welcome to contact me!
 You are very welcome to drop me a line: hojingmao (at) gmail.com / jh2268 (at) cornell.edu
