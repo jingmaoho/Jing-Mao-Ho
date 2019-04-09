@@ -20,11 +20,11 @@ While I apply a variety of quantitative approaches to my social science research
 ### Data Analysis
 In addition to the mathematics of data science, I'm also passionate about data wrangling and statistical analysis. 
 
-[Natural Language Processing: LDA Topic Models] (Python Code)(https://jingmaoho.github.io/TopicModeling.html)
+[Natural Language Processing: LDA Topic Models (Python Code)](https://jingmaoho.github.io/TopicModeling.html)
 
-[Building a Network Data Set from Scratch] (Python Code)(https://jingmaoho.github.io/MethodologicalAppendix.html)
+[Building a Network Data Set from Scratch (Python Code)](https://jingmaoho.github.io/MethodologicalAppendix.html)
 
-[Replication R Code of Panel Poisson Analysis] (R Code)(https://jingmaoho.github.io/replication.clean.model.html)
+[Replication R Code of Panel Poisson Analysis (R Code)](https://jingmaoho.github.io/replication.clean.model.html)
 
 ### Data Visualization
 I use a variety of software to visualize data.
