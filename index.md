@@ -8,7 +8,7 @@ My computer science interests are in machine learning, algorithm analysis, and t
 
 I'm currently a PhD candidate in Sociology at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University, and a BS in Information Engineering from I-Shou University.
 
-You are very welcome to drop me a line: jh2268 (at) cornell.edu
+You are very welcome to drop me a line: hojingmao (at) gmail.com / jh2268 (at) cornell.edu
 
 ## What's on my GitHub?
 
