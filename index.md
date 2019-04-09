@@ -2,13 +2,9 @@
 
 I'm a Bourdieusian data scientist. I approach data science & data analysis from both sociological and computational perspectives. In addition to applying statistical models to analyze data on social dynamics, I also do research on the reflexivity of data and society.
 
-My Sociology dissertation explores the relationship between statistics, societies, and politics. I also have been involved in research projects on a variety of substantive topics, such as crime, deviance, and social control, trust, mobilizations, democratic politics, world society, social networks, organizations, and elites. In these projects I use qualitative, quantitative, and computational methods to analyze archival, organizational, survey, and textual data.
+My Sociology dissertation explores the relationship between statistics, societies, and politics. I also have been involved in research projects on a variety of substantive topics, such as crime, deviance, and social control, trust, mobilizations, democratic politics, world society, social networks, organizations, and elites.
 
-My computer science interests are in machine learning, algorithm analysis, and theoretical computer science. I'm particularly interested in the mathematical and philosophical fundamentals of predictive modeling. 
-
-I'm currently a PhD candidate in Sociology at Cornell University. I hold an MS in Computer Science and an MA in Sociology from National Taiwan University, and a BS in Information Engineering from I-Shou University.
-
-You are very welcome to drop me a line: hojingmao (at) gmail.com / jh2268 (at) cornell.edu
+I also hold an MS in Computer Science and BS in Information Egineering. My computer science interests are in machine learning, algorithm analysis, and theoretical computer science. I'm particularly interested in the mathematical and philosophical fundamentals of predictive modeling. 
 
 ## What's on my GitHub?
 
@@ -33,3 +29,7 @@ In addition to the mathematics of data science, I'm also passionate about wrangl
 [A country network through intergovernmental ties](https://jingmaoho.github.io/network.io.pdf)
 
 [A group of ego centric networks](https://jingmaoho.github.io/networks.pdf)
+
+## Welcome to contact me!
+You are very welcome to drop me a line: hojingmao (at) gmail.com / jh2268 (at) cornell.edu
+
