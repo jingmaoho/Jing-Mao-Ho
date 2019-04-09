@@ -6,6 +6,7 @@ My Sociology dissertation explores the relationship between statistics, societie
 
 I also hold an MS in Computer Science and BS in Information Egineering. My computer science interests are in machine learning, algorithm analysis, and theoretical computer science. I'm particularly interested in the mathematical and philosophical fundamentals of predictive modeling. 
 
+
 ## What's on my GitHub?
 
 ### Statistical and Computational Models
@@ -32,6 +33,7 @@ I use a variety of software to visualize data.
 [Data Visualizations: A Country Network through Intergovernmental Ties](https://jingmaoho.github.io/network.io.pdf)
 
 [Data Visualizations: Ego Centric Networks](https://jingmaoho.github.io/networks.pdf)
+
 
 ## Welcome to contact me!
 You are very welcome to drop me a line: hojingmao (at) gmail.com / jh2268 (at) cornell.edu
