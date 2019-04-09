@@ -19,17 +19,19 @@ While I apply a variety of quantitative approaches to my social science research
 
 [Linear Classifier: Support Vector Machines (SVM)](https://jingmaoho.github.io/SVM.pdf)
 
-[Linear Regression: Least Squares Estimation (LSE)] (coming soon!)
+[Neural Networks] (coming soon!)
 
 [Exponential Random Graph Model (ERGM)] (coming soon!)
 
 
-### Data Analysis and Visualization 
-In addition to the mathematics of data science, I'm also passionate about visualizing data. 
+### Data Analysis, Visualization, and Code
+In addition to the mathematics of data science, I'm also passionate about wrangling and visualizing data. 
 
-[A Methodological Appendix](https://jingmaoho.github.io/MethodologicalAppendix.html)
+[Natural Language Processing: LDA Topic Models](https://jingmaoho.github.io/MethodologicalAppendix.html)
 
-[Replication Code of Panel Poisson Analysis](https://jingmaoho.github.io/replication.clean.model.html)
+[Building a Network Data Set from Scratch](https://jingmaoho.github.io/MethodologicalAppendix.html)
+
+[Replication R Code of Panel Poisson Analysis](https://jingmaoho.github.io/replication.clean.model.html)
 
 [A country network through intergovernmental ties](https://jingmaoho.github.io/network.io.pdf)
 
