@@ -21,13 +21,10 @@ While I apply a variety of quantitative approaches to my social science research
 
 [Neural Networks] (coming soon!)
 
-[Exponential Random Graph Model (ERGM)] (coming soon!)
-
-
 ### Data Analysis, Visualization, and Code
 In addition to the mathematics of data science, I'm also passionate about wrangling and visualizing data. 
 
-[Natural Language Processing: LDA Topic Models](https://jingmaoho.github.io/MethodologicalAppendix.html)
+[Natural Language Processing: LDA Topic Models](https://jingmaoho.github.io/Topic Modeling.html)
 
 [Building a Network Data Set from Scratch](https://jingmaoho.github.io/MethodologicalAppendix.html)
 
