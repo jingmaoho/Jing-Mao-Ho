@@ -9,7 +9,7 @@ I also hold an MS in Computer Science and BS in Information Egineering. My compu
 
 ## What's on my GitHub?
 
-### Statistical and Computational Models
+### Mathematics of Statistical and Computational Models
 While I apply a variety of quantitative approaches to my social science research, I'd like to share my notes pertaining to statistics, data science, machine learning, and theoretical computer science here. It's my philosophy that the deeper you understand the methods you use, the better researcher you will become. Also, it is always fun for me to dig into those commonly used models! 
 
 [Linear Classifier: Perceptron Learning Algorithm](https://jingmaoho.github.io/Perceptron_JMH.pdf)
